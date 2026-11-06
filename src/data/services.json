@@ -1,0 +1,11 @@
+[
+  {
+    "id": "8cb1486a-d1e4-4422-b791-a59d9bf3425e",
+    "name": "Chequeo de rutina",
+    "description": "Estudios rutinarios para definir estado de salud",
+    "duration": 60,
+    "price": 50000,
+    "category": "Salud",
+    "available": true
+  }
+]
